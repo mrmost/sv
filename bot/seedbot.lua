@@ -226,17 +226,18 @@ function create_config( )
     "Feedback",
     "Cover"
     },
-    sudo_users = {138342554},--Sudo users
+    sudo_users = {94704012},--Sudo users
     disabled_channels = {},
-    realm = {61716131},--Realms Id
+    realm = {53167206},--Realms Id
     moderation = {data = 'data/moderation.json'},
-    about_text = [[W_SaTaN_W V 12.7 (beta)     
+    about_text = [[W_SaTaN_W V 12.7     
     
     Admins
     @WilSoN_DeVeLoPeR
     
     Special thanks to 
-    Alfred ( 6 1 5 )     
+    Alfred ( 6 1 5 )   
+    Amir ( VanTage )
     
     our channel 
     @W_SaTaN_w_chnnl,]],
