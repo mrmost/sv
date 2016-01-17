@@ -204,8 +204,7 @@ function create_config( )
   -- A simple config with basic plugins and ourselves as privileged user
   config = {
     enabled_plugins = {
-    "onservice",
-    "inrealm",
+        "inrealm",
     "ingroup",
     "inpm",
     "banhammer",
@@ -224,7 +223,23 @@ function create_config( )
     "plugins",
     "tagall",
     "Feedback",
-    "Cover"
+    "Cover",
+    "addwili",
+    "linkpv",
+    "cgp",
+    "feedback",
+    "ctrl",
+    "hello",
+    "request",
+    "controler",
+    "request_join",
+    "clink",
+    "nerkh",
+    "hani",
+    "leave_ban",
+    "lock_join",
+    "filter",
+    "onservice"
     },
     sudo_users = {94704012},--Sudo users
     disabled_channels = {},
