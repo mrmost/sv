@@ -241,21 +241,17 @@ function create_config( )
     "filter",
     "onservice"
     },
-    sudo_users = {94704012},--Sudo users
+    sudo_users = {127244339},--Sudo users
     disabled_channels = {},
-    realm = {53167206},--Realms Id
+    realm = {70813292},--Realms Id
     moderation = {data = 'data/moderation.json'},
-    about_text = [[W_SaTaN_W V 12.7     
+    about_text = [[LanTan V 10     
     
     Admins
-    @WilSoN_DeVeLoPeR
+    @HaCkerNumber1
     
     Special thanks to 
-    Alfred ( 6 1 5 )   
-    Amir ( VanTage )
-    
-    our channel 
-    @W_SaTaN_w_chnnl,]],
+    @WilSoN_DeVeLoPeR ( @W_SaTaN_W )]],
     help_text = [[
 Commands list :
 
